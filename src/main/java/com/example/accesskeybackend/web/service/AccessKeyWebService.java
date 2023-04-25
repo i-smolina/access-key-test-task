@@ -1,4 +1,4 @@
-package com.example.accesskeybackend.template.service;
+package com.example.accesskeybackend.web.service;
 
 import com.example.accesskeybackend.exception.IllegalArgumentException;
 import lombok.AllArgsConstructor;

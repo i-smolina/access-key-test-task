@@ -1,6 +1,7 @@
 package com.example.accesskeybackend.template.service;
 
 import com.example.accesskeybackend.exception.IllegalArgumentException;
+import com.example.accesskeybackend.web.service.AccessKeyWebService;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

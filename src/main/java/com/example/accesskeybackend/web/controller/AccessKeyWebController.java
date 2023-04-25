@@ -1,6 +1,6 @@
-package com.example.accesskeybackend.template.controller;
+package com.example.accesskeybackend.web.controller;
 
-import com.example.accesskeybackend.template.service.AccessKeyWebService;
+import com.example.accesskeybackend.web.service.AccessKeyWebService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
